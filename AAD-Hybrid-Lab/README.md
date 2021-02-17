@@ -2,7 +2,7 @@
 ## Creates an AD VM with Azure AD Connect installed
 ## Quick Start
 
-<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https://raw.githubusercontent.com/jks05c/M365WVDWS/master/AAD-Hybrid-Lab/deploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
+<a href="https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2jks05c%2M365WVDWS%2master%2AAD-Hybrid-Lab%2deploy.json" target="_blank"><img src="http://azuredeploy.net/deploybutton.png"/></a>
 
 ## Details
 * Deploys the following infrastructure:
