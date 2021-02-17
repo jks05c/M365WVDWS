@@ -98,7 +98,7 @@
       }
     },
     "vmSize": {
-      "type": "string"
+      "type": "string",
       "metadata": {
         "description": "Select a VM SKU (please ensure the SKU is available in your selected region)."
       }
